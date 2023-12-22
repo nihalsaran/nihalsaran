@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Currently working on a app called Learnify which provides important study materials for students.<br> 👯Im looking to collaborate on making THE BEST APPS so far <br> 🤝Im looking for help in MERN Domain<br> 🌱Currently learning FERN stack where R refers to REACT-NATIVE  <br>💬Ask me about anything you want  <br>⚡️Fun fact is — Im funny, TRY ME
+🔭Currently working on a app called Learnify which provides important study materials for students.<br> 👯Im looking to collaborate on making THE BEST APPS so far <br> 🤝Im looking for guidance in MERN Domain<br> 🌱Currently learning FERN stack in Mobile DEV  <br>💬Ask me about anything you want  <br>⚡️Fun fact is — Im funny, TRY ME
 
 
 ## 🌐 Socials:
