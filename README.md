@@ -17,7 +17,7 @@
 </a>
 
 
-[![Visit me](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](www.nihalsaran.live)
+
 
 <!-- Intro  -->
 <h3 align="center">
