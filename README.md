@@ -22,14 +22,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://nihalsaran.com">Nihal saran das duggirala</a></b>
+                <b><a target="_blank" href="https://nihalsaran.live">Nihal saran das duggirala</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Nihal+Saran+Das+Duggirala">「 Google Me 」</a>
     <br>
     「 I am a full stack web/mobile application developer from <b>India</b> 」
     <br>
