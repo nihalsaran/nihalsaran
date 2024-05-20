@@ -134,4 +134,4 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=nihalsaran&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+([![Nihal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nihalsaran&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
