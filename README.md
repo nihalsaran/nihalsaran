@@ -97,9 +97,9 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=nihalsaran&repo=Seekho_Buddy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nihalsaran/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=nihalsaran&repo=sncapp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nihalsaran/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=nihalsaran&repo=DEIpagedetd&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nihalsaran/web-projects)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=nihalsaran&repo=Seekho_Buddy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nihalsaran/Seekho_Buddy)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=nihalsaran&repo=sncapp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nihalsaran/sncapp)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=nihalsaran&repo=DEIpagedetd&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nihalsaran/DEIpagedetd)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=nihalsaran&repo=nihalsaran&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nihalsaran/nihalsaran)
 
 <p align="left">
