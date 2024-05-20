@@ -38,24 +38,19 @@
 </p>
 
 <p align="center">
- <a href="https://nihalsaran.com" target="blank">
+ <a href="https://nihalsaran.live" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nihalsaran" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/nihal-saran-das-duggirala/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nihalsaran"/>
  </a>
  <!-- <a href="https://dev.to/nihalsaran" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="nihalsaran" />
  </a> -->
- <a href="https://twitter.com/_nihalsaran" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_nihalsaran" target="_blank">
+ <a href="https://instagram.com/nihalsaran.d" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="nihalsaran" />
  </a> 
- <a href="https://facebook.com/nihalsaran.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="nihalsaran"  />
-  </a> 
+ 
 </p>
 <br />
 
@@ -67,7 +62,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: nihalsaran.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: nihalsarandasd@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/nihalsaran/nihalsaran/issues)
 
 </p>
