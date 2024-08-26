@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter-NEXTJS projects**
 
-- 👨‍💻 All of my projects are available at [https://nihalsaran.github.io/dev-portfolio-nihal/](https://nihalsaran.github.io/dev-portfolio-nihal/)
+- 👨‍💻 All of my projects are available at [https://www.nihalsaran.live/](https://www.nihalsaran.live/)
 
 - 💬 Ask me about **React, React-Native, Javascript and Flutter**
 
