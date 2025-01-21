@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **App development**
 
-- 🌱 I’m currently learning **Next JS, ThreeJS , Flutter**
+- 🌱 I’m currently learning **Kubernetes & Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Flutter-NEXTJS projects**
 
