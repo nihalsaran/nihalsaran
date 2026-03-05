@@ -150,8 +150,8 @@ const nihal = {
 ## 📊 GitHub Analytics
 
 <p>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nihalsaran&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nihalsaran&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nihalsaran&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nihalsaran&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </p>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=nihalsaran&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
